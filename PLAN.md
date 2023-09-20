@@ -77,5 +77,10 @@
 - Web design basics
 - How to convert figma to code ? 
 
+# Testing libs
+- Jest
+- React Testing Library
+- Playwright
+
 # Projects
 - Do 5 projects based on Youtube tutorials based on react/next.js
