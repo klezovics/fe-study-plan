@@ -12,6 +12,7 @@ Stuff to learn
 - Firefox for developers
 - Eslint
 - Chrome Dev Tools or similar
+- Something to create a fixed order of CSS properties
 
 # Component libs
 ## Bootstrap
@@ -31,6 +32,7 @@ Stuff to learn
 
 ## Libs
 - React Query
+- Styled components
 
 ## Patterns
 - React component patterns
