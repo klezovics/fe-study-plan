@@ -1,29 +1,61 @@
 Stuff to learn
 
-# Major tech
+# Languages
+- JS
+- Typescript
+
+# Frameworks
 - Next.js
 
+# Tools
+- npm, nvm, npx
+- Firefox for developers
+- Eslint
+- Chrome Dev Tools or similar
+
 # Component libs
+## Bootstrap
 - Bootstrap Grid
-- Bootstrap
+- Bootstrap components 
+
+## Other
 - 3 other components libs
 - Figure out how to customize lib components
 
-# React & Redux
+# React
+## Hooks
+- useState
+- useEffect
+- useRef
+- useContext
+
+## Libs
 - React Query
-- React hooks
+
+## Patterns
+- React component patterns
+- React component interaction patterns
+
+# Redux
+- Redux
 - Redux toolkit
 
-# Pure CSS
+# CSS
+- box model
+- grid, flexbox and position
 - before/after
 - shadows
 - gradients
+- transformations
 
 # Responsive design
 - All courses from Kevin Powell
 
-# Typography and fonts
+# Typography
 - Gain a deeper understanding of typography and fonts
+
+# SVG
+- SVG basics
 
 # Animations
 - @keyframes
@@ -31,7 +63,12 @@ Stuff to learn
 - SVG animations
 
 # Key libs
+## Making requests
+- fetch API 
+- axios
+## Etc
 - Use main list from my notes
+- Some 3D libs
 
 # Figma
 - Figma basics
