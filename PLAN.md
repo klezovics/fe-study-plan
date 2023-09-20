@@ -1,5 +1,3 @@
-Stuff to learn
-
 # Languages
 - JS
 - Typescript
