@@ -43,6 +43,7 @@ Stuff to learn
 - Redux toolkit
 
 # CSS
+## Core CSS
 - box model
 - grid, flexbox and position
 - before/after
@@ -50,7 +51,7 @@ Stuff to learn
 - gradients
 - transformations
 
-# Responsive design
+## Responsive design
 - All courses from Kevin Powell
 
 # Typography
