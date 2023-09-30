@@ -11,6 +11,7 @@
 ## Layouts 
 - How create high quality and clean high level layouts ?
 - How do I master creating layouts 
+- What are common layout pattrens ? How can I easily implement them ?
 
 ## Clean code & clean architecture
 - Which patterns and best practices can I use ?
