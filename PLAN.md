@@ -17,6 +17,7 @@
 - Which patterns and best practices can I use ?
 - How can I structure my app in layers ? Do I use classes or functions ?
 - How can I structure my FE into modules ?
+- Best practice around next.js 13 project structure ?
 
 # Languages
 - JS
