@@ -1,3 +1,22 @@
+# Questions
+
+## Consistency/Reusability
+- How to ensure consistent gaps everywhere?
+- How do I design reusable components ? Think buttons with rounded corners ? How to avoid prop overload ?
+
+## Features
+- What are the key aspects/features of next.js ?
+- How can I leverage bootstrap and other UI libs as much as possible ? How do I make them customizable ?
+
+## Layouts 
+- How create high quality and clean high level layouts ?
+- How do I master creating layouts 
+
+## Clean code & clean architecture
+- Which patterns and best practices can I use ?
+- How can I structure my app in layers ? Do I use classes or functions ?
+- How can I structure my FE into modules ?
+
 # Languages
 - JS
 - Typescript
@@ -92,18 +111,14 @@
 
 # Key libs
 ## Making requests
-- RTK Query
-- React Query
-- fetch API 
-- axios
+- React Query, RTK Query
+- fetch API, axios
 
 ## Data visualisation
-- ChartJS
-- VictoryChart
+- ChartJS, VictoryChart
 
 ## Tables
-- TanStackTable
-- AntDesign table
+- TanStackTable, AntDesign table
 
 ## Component design systems
 - Storybook
