@@ -2,6 +2,12 @@
 - JS
 - Typescript
 
+# Clen code & clean architecture
+- Clean code React
+- Clean architecture React
+- React patterns
+- Redux patterns
+
 # Frameworks
 - Next.js
 - After.js
