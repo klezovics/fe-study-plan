@@ -155,6 +155,7 @@
 - Site navigation
 - Colors
 - Typography
+- Spacing system
 - Layout
 
 # Projects
