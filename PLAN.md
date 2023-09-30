@@ -4,11 +4,19 @@
 
 # Frameworks
 - Next.js
+- After.js
+
+# Next.js
+- Next app router
+- Next auth
+- Next internationalization
 
 # Tools
 - npm, nvm, npx
 - Firefox for developers
 - Eslint
+- React dev tools
+- Redux tools
 - Chrome Dev Tools or similar
 - Something to create a fixed order of CSS properties
 
@@ -18,7 +26,9 @@
 - Bootstrap components 
 
 ## Other
-- 3 other components libs
+- Material UI
+- Chakra UI
+- 2 headless UI libs
 - Figure out how to customize lib components
 
 # React
@@ -36,8 +46,9 @@
 - React component patterns
 - React component interaction patterns
 
-# Redux
+# Client state management
 - Redux
+- Zustand
 - Redux toolkit
 
 # CSS
@@ -48,6 +59,11 @@
 - shadows
 - gradients
 - transformations
+
+## Styling
+- CSS modules
+- Styled components
+- Emotion
 
 ## Responsive design
 - All courses from Kevin Powell
@@ -60,16 +76,49 @@
 
 # Animations
 - @keyframes
-- React Spring
+- React Spring, Framer Motion
 - SVG animations
+
+# Forms
+- React hook form
+## Validation
+- Yup, Joi
 
 # Key libs
 ## Making requests
+- RTK Query
+- React Query
 - fetch API 
 - axios
+
+## Data visualisation
+- ChartJS
+- VictoryChart
+
+## Tables
+- TanStackTable
+- AntDesign table
+
+## Component design systems
+- Storybook
+
+## Authentication
+- Auth0
+
+## I18n
+- react-i18next
+
 ## Etc
-- Use main list from my notes
+- RxJS -> NgRx
 - Some 3D libs
+
+# Firebase
+- Firebase auth
+
+# Testing libs
+- Jest
+- React Testing Library
+- Playwright
 
 # Figma
 - Figma basics
@@ -77,10 +126,11 @@
 - Web design basics
 - How to convert figma to code ? 
 
-# Testing libs
-- Jest
-- React Testing Library
-- Playwright
+# Web Design
+- Site navigation
+- Colors
+- Typography
+- Layout
 
 # Projects
 - Do 5 projects based on Youtube tutorials based on react/next.js
