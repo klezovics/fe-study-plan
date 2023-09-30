@@ -19,6 +19,10 @@
 - How can I structure my FE into modules ?
 - Best practice around next.js 13 project structure ?
 
+# Project generators
+- https://pankod.github.io/superplate/ -> next.js boileplate, adds all dependencies
+- https://github.com/refinedev/refine -> boilerplate code generator
+
 # Languages
 - JS
 - Typescript
@@ -34,12 +38,13 @@
 - After.js
 
 # Next.js
-- Next app router
 - Next auth
 - Next internationalization
+- Next app router
+
 
 # Tools
-- npm, nvm, npx
+- npm, nvm, npx -> what else ?
 - Firefox for developers
 - Eslint
 - React dev tools
@@ -64,6 +69,7 @@
 - useEffect
 - useRef
 - useContext
+- useReducer
 
 ## Libs
 - React Query
@@ -74,8 +80,7 @@
 - React component interaction patterns
 
 # Client state management
-- Redux
-- Zustand
+- Zustand, Redux 
 - Redux toolkit
 
 # CSS
@@ -89,7 +94,10 @@
 
 ## Styling
 - CSS modules
+
+## CSS in JS
 - Styled components
+- styled-jsx
 - Emotion
 
 ### Consistency
@@ -111,6 +119,7 @@
 
 # Forms
 - React hook form
+
 ## Validation
 - Yup, Joi
 
@@ -151,12 +160,11 @@
 - How to convert figma to code while preserving spacing
 - Web design basics
 - How to convert figma to code ? 
+- Design token export: https://www.figma.com/community/plugin/888356646278934516/design-tokens
 
 # Web Design
 - Site navigation
-- Colors
-- Typography
-- Spacing system
+- Design tokens: colors, typography, spacing
 - Layout
 
 # Projects
