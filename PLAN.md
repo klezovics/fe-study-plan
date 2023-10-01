@@ -85,6 +85,8 @@
 
 # CSS
 ## Core CSS
+### CSS basics
+- Excellent intro: https://cssdemystified.com/
 - box model
 - grid, flexbox and position
 - before/after
