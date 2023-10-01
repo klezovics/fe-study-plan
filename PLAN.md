@@ -95,6 +95,7 @@
 - Media queries
 
 - CSS modules
+- Beyound CSS -> https://www.beyondcss.dev/
 
 ## CSS in JS
 - Libs -> Styled components, styled-jsx, emotion
