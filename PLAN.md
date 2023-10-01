@@ -27,23 +27,21 @@
 - JS
 - Typescript
 
-# Clen code & clean architecture
-- Clean code React
-- Clean architecture React
-- React patterns
-- Redux patterns
-
-# Frameworks
-- Next.js
-- After.js
-
 # Next.js
 - Next auth
 - Next internationalization
 - Next app router
-
+- Alternative: after.js
 
 # Tools
+## Figma
+- Figma basics
+- How to convert figma to code while preserving spacing
+- Web design basics
+- How to convert figma to code ?
+- Design token export: https://www.figma.com/community/plugin/888356646278934516/design-tokens
+
+## Other tools
 - npm, nvm, npx -> what else ?
 - Firefox for developers
 - Eslint
@@ -51,17 +49,6 @@
 - Redux tools
 - Chrome Dev Tools or similar
 - Something to create a fixed order of CSS properties
-
-# Component libs
-## Bootstrap
-- Bootstrap Grid
-- Bootstrap components 
-
-## Other
-- Material UI
-- Chakra UI
-- 2 headless UI libs
-- Figure out how to customize lib components
 
 # React
 ## Hooks
@@ -72,97 +59,114 @@
 - useReducer
 
 ## Libs
-- React Query
-- Styled components
+- React Query & 1 alternative
+- Client state; Zustand, Redux, Redux toolkit
 
 ## Patterns
 - React component patterns
 - React component interaction patterns
 
-# Client state management
-- Zustand, Redux 
-- Redux toolkit
-
 # CSS
 ## Core CSS
-### CSS basics
+### Basic concepts
 - Excellent intro: https://cssdemystified.com/
-- box model
-- grid, flexbox and position
-- before/after
-- shadows
-- gradients
-- transformations
+- Fundamentals: box-model, inheritance, cascading
+- Reset -> box-sizing: border-box, normalize.css, 10px per rem
 
-## Styling
+### Layouts
+- Normal flow
+- Display
+- Position
+- Flexbox
+- Grid
+- Responsive design https://courses.kevinpowell.co/conquering-responsive-layouts https://scrimba.com/learn/responsive
+
+### Coloring
+- Coloring -> shadows, gradients
+- Typography -> font-* properties, inhertiance of font-* properties, typography theory basics
+
+### Etc
+- Transformations -> translate, rotate, scale
+- Animations -> transition, @keyframes
+
+- Pseudo elements -> :hover, :active, :focus, :visited, :nth-child, ::before-after
+- Pseudo classes -> :hover, :active, :focus, :visited
+- Pseudo selectors -> :nth-child
+- Media queries
+
 - CSS modules
 
 ## CSS in JS
-- Styled components
-- styled-jsx
-- Emotion
+- Libs -> Styled components, styled-jsx, emotion
 
-### Consistency
-- https://lukebrown.dev/writing/how-to-create-a-spacing-system-with-styled-components
+# Libs
+## Component libs
+### Bootstrap
+- Bootstrap Grid
+- Bootstrap components
 
-## Responsive design
-- All courses from Kevin Powell
+### Other
+- Material UI
+- Chakra UI
+- 2 headless UI libs
+- Figure out how to customize lib components
 
-# Typography
-- Gain a deeper understanding of typography and fonts
+### Table libs
+- TanStackTable, AntDesign table
 
-# SVG
-- SVG basics
-
-# Animations
+## Animation Libs
 - @keyframes
 - React Spring, Framer Motion
-- SVG animations
 
-# Forms
+## Form Libs
 - React hook form
 
-## Validation
+## Validation Libs
 - Yup, Joi
 
-# Key libs
-## Making requests
+## HTTP Libs
 - React Query, RTK Query
 - fetch API, axios
 
-## Data visualisation
+## Data visualisation Libs  
 - ChartJS, VictoryChart
 
-## Tables
-- TanStackTable, AntDesign table
-
-## Component design systems
+## Component Design System Libs
 - Storybook
 
-## Authentication
-- Auth0
-
-## I18n
-- react-i18next
-
-## Etc
-- RxJS -> NgRx
-- Some 3D libs
-
-# Firebase
+## Authentication Libs/Providers
 - Firebase auth
+- Auth0
+- 1 more auth provider
 
-# Testing libs
+## I18n Libs
+- react-i18next
+- 1 more libs
+
+## Testing libs
 - Jest
 - React Testing Library
 - Playwright
 
-# Figma
-- Figma basics
-- How to convert figma to code while preserving spacing
-- Web design basics
-- How to convert figma to code ? 
-- Design token export: https://www.figma.com/community/plugin/888356646278934516/design-tokens
+## Reactive libs
+- RxJS -> NgRx
+- Some 3D libs
+
+## Typography libs
+- Typographer lib -> add link
+
+# Clen code & clean architecture
+- Clean code React
+- Clean architecture React
+- React patterns
+- Redux patterns
+
+# SVG
+- SVG basics
+- SVG animations
+
+# Firebase Services
+- Firebase auth
 
 # Web Design
 - Site navigation
