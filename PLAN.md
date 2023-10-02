@@ -1,9 +1,20 @@
 # Summary
+This is the summary of all key and critical aspects of FE dev
+
+## HTML breakdown
+HTML = Collection of nested tags with attributes ~ 20% of tags are used 80% of the time
+
+## JS breakdown
+JS = Core JS(X) + Libs
+JS = Core JS + React JSX
+Key libs = CSS-IN-JS + Hooks + State management + HTTP
+Automated tests
 
 ## CSS breakdown
-CSS = Base + Responsive + Advanced
+CSS = Base(Static) + Responsive + Advanced(Dynamic)
 Base = Layouts + Colors + Typography + Spacing
 Advanced = Transitions + Animations
+Design system
 
 # Questions
 
@@ -30,16 +41,6 @@ Advanced = Transitions + Animations
 - https://pankod.github.io/superplate/ -> next.js boileplate, adds all dependencies
 - https://github.com/refinedev/refine -> boilerplate code generator
 
-# Languages
-- JS
-- Typescript
-
-# Next.js
-- Next auth
-- Next internationalization
-- Next app router
-- Alternative: after.js
-
 # Drills
 - D1 -> Making layouts -> Get a list of layout patterns from ChatGPT and implement them using grid/flexbox
 - D2 -> Absolute positioning -> Grab a bunch of elements and position them in crazy places
@@ -52,7 +53,17 @@ Advanced = Transitions + Animations
 - D8 -> Responsive design -> Create a few designs which are effortlessly responsive
 - D9 -> Using libraries. Integrate about 20 different libraries and try to use them
 
-# Tools
+# Languages
+- JS
+- Typescript
+
+# Next.js
+- Next auth
+- Next internationalization
+- Next app router
+- Alternative: after.js
+
+# Tools 🛠
 ## Figma
 - Figma basics
 - How to convert figma to code while preserving spacing
@@ -60,15 +71,18 @@ Advanced = Transitions + Animations
 - How to convert figma to code ?
 - Design token export: https://www.figma.com/community/plugin/888356646278934516/design-tokens
 
-## Other tools
-- generator -> superplate
-- npm, nvm, npx -> what else ?
-- Firefox for developers
-- Eslint
-- React dev tools
-- Redux tools
-- Chrome Dev Tools or similar
-- Something to create a fixed order of CSS properties
+### CLI utils
+- Generator -> superplate, refine
+- Package manager -> npm, yarn
+- Linter -> eslint, prettier (Something to create a fixed order of CSS properties?)
+- CLI node utilities -> nvm, npx -> what else ?
+
+### Browser dev tools
+- Chrome Dev Tools, Firefox for developers
+- Lib inspector tools -> react, redux, react-query
+
+### Other
+- Generators -> gradient, shadow, text shadow, animation, transformation
 
 # React
 ## Hooks
@@ -192,8 +206,9 @@ Advanced = Transitions + Animations
 - SVG animations
 - SVGR
 
-# Firebase Services
-- Firebase auth
+# Cloud services
+- Vercel -> quick deployment
+- Firebase auth -> useful services
 
 # Web Design
 - Site navigation
