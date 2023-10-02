@@ -134,6 +134,15 @@ Design system
 - Styled System (!!!)
 
 # Libs
+## Starter lib pack
+### Always
+- JS: typescript support
+- CSS: styled-components, styled-system
+- API: axios, react-query(prevents too much hits of the API(!!))
+- State management: zustand, immer
+- Linting: eslint, prettier
+
+
 ## Component libs
 ### Tailwind
 - m, p, text and breakpoint(responsive!!) classes for consistent sizing
