@@ -16,7 +16,7 @@ Base = Layouts + Colors + Typography + Spacing
 Advanced = Transitions + Animations
 Design system
 
-# Learnings
+# Learning Process
 ## Questions
 
 ### Consistency/Reusability
@@ -206,7 +206,7 @@ Design system
 
 # Cloud services
 - Vercel -> quick deployment
-- Firebase auth -> useful services
+- Firebase -> auth, db, backend as a service
 
 # Web Design
 - Site navigation
