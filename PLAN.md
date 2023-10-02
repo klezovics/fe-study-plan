@@ -1,5 +1,5 @@
 # Summary
-CSS = Base + Advanced
+CSS = Base + Responsive + Advanced
 Base = Layouts + Colors + Typography + Spacing
 Advanced = Transitions + Animations
 
