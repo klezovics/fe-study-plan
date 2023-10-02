@@ -33,6 +33,18 @@
 - Next app router
 - Alternative: after.js
 
+# Drills
+- D1 -> Making layouts -> Get a list of layout patterns from ChatGPT and implement them using grid/flexbox
+- D2 -> Absolute positioning -> Grab a bunch of elements and position them in crazy places
+- D3 -> Hooks + custom hooks. Come up with ways to use hooks in all ways and then extract this logic into custom hooks
+- D4 -> Context. Learn to implement contexts and pass data around using them
+- D4 -> Redux -> Practice using redux and mapping state and dispatch to props
+- D5 -> Layering -> Read a few articles/projects about layering and do 3 projects with layers
+- D6 -> Animations -> Start with basic and move on to more advanced animations
+- D7 -> Project generators -> Try out a few and check that you get a project with all dependencies configured
+- D8 -> Responsive design -> Create a few designs which are effortlessly responsive
+- D9 -> Using libraries. Integrate about 20 different libraries and try to use them
+
 # Tools
 ## Figma
 - Figma basics
