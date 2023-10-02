@@ -16,32 +16,29 @@ Base = Layouts + Colors + Typography + Spacing
 Advanced = Transitions + Animations
 Design system
 
-# Questions
+# Learnings
+## Questions
 
-## Consistency/Reusability
+### Consistency/Reusability
 - How to ensure consistent gaps everywhere?
 - How do I design reusable components ? Think buttons with rounded corners ? How to avoid prop overload ?
 
-## Features
+### Features
 - What are the key aspects/features of next.js ?
 - How can I leverage bootstrap and other UI libs as much as possible ? How do I make them customizable ?
 
-## Layouts 
+### Layouts 
 - How create high quality and clean high level layouts ?
 - How do I master creating layouts 
 - What are common layout pattrens ? How can I easily implement them ?
 
-## Clean code & clean architecture
+### Clean code & clean architecture
 - Which patterns and best practices can I use ?
 - How can I structure my app in layers ? Do I use classes or functions ?
 - How can I structure my FE into modules ?
 - Best practice around next.js 13 project structure ?
 
-# Project generators
-- https://pankod.github.io/superplate/ -> next.js boileplate, adds all dependencies
-- https://github.com/refinedev/refine -> boilerplate code generator
-
-# Drills
+## Drills
 - D1 -> Making layouts -> Get a list of layout patterns from ChatGPT and implement them using grid/flexbox
 - D2 -> Absolute positioning -> Grab a bunch of elements and position them in crazy places
 - D3 -> Hooks + custom hooks. Come up with ways to use hooks in all ways and then extract this logic into custom hooks
@@ -52,6 +49,7 @@ Design system
 - D7 -> Project generators -> Try out a few and check that you get a project with all dependencies configured
 - D8 -> Responsive design -> Create a few designs which are effortlessly responsive
 - D9 -> Using libraries. Integrate about 20 different libraries and try to use them
+- D10 -> Component communications practice. Prop drilling, context, zustand
 
 # Languages
 - JS
