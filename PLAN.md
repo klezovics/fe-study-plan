@@ -1,3 +1,8 @@
+# Summary
+CSS = Base + Advanced
+Base = Layouts + Colors + Typography + Spacing
+Advanced = Transitions + Animations
+
 # Questions
 
 ## Consistency/Reusability
