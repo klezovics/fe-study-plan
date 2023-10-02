@@ -1,4 +1,6 @@
 # Summary
+
+## CSS breakdown
 CSS = Base + Responsive + Advanced
 Base = Layouts + Colors + Typography + Spacing
 Advanced = Transitions + Animations
