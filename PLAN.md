@@ -61,6 +61,7 @@ Advanced = Transitions + Animations
 - Design token export: https://www.figma.com/community/plugin/888356646278934516/design-tokens
 
 ## Other tools
+- generator -> superplate
 - npm, nvm, npx -> what else ?
 - Firefox for developers
 - Eslint
@@ -118,9 +119,14 @@ Advanced = Transitions + Animations
 
 ## CSS in JS
 - Libs -> Styled components, styled-jsx, emotion
+- Styled System (!!!)
 
 # Libs
 ## Component libs
+### Tailwind
+- m, p, text and breakpoint(responsive!!) classes for consistent sizing
+- flex-row, flex-col
+
 ### Bootstrap
 - Bootstrap Grid
 - Bootstrap components
@@ -184,6 +190,7 @@ Advanced = Transitions + Animations
 # SVG
 - SVG basics
 - SVG animations
+- SVGR
 
 # Firebase Services
 - Firebase auth
