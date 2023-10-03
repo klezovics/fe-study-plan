@@ -59,7 +59,7 @@ Design system
 - Next auth
 - Next internationalization
 - Next app router
-- Alternative: after.js
+- Alternative: after.js, refine.js
 
 # Tools 🛠
 ## Figma
@@ -135,13 +135,18 @@ Design system
 
 # Libs
 ## Starter lib pack
-### Always
+### Main
 - JS: typescript support
 - CSS: styled-components, styled-system
 - API: axios, react-query(prevents too much hits of the API(!!))
+- Forms: react-hook-form
+- Validation: Zod
 - State management: zustand, immer
-- Linting: eslint, prettier
 
+### Support
+- Linting: eslint, prettier
+- Unit Testing: jest, react-testing-library -> ???
+- E2E Testing: ???
 
 ## Component libs
 ### Tailwind
