@@ -51,6 +51,7 @@ Design system
 ### Etc
 - Storybook -> design system
 - SEO
+- Core web vitals: https://pagespeed.web.dev/
 
 # Learning Process
 ## Questions
