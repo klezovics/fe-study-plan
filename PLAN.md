@@ -149,6 +149,15 @@ Design system
 - Grid
 - Responsive design https://courses.kevinpowell.co/conquering-responsive-layouts https://scrimba.com/learn/responsive
 
+### Layout patterns
+#### Resources
+- https://web.dev/patterns/layout/
+- Every layout
+
+#### Patterns
+- P1
+- P2
+
 ### Coloring
 - Coloring -> shadows, gradients
 - Typography -> font-* properties, inhertiance of font-* properties, typography theory basics
