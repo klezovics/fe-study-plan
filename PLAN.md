@@ -163,6 +163,11 @@ Design system
 - 2 headless UI libs
 - Figure out how to customize lib components
 
+### Headless component libs
+These libs only provide hooks and let you style components how you want
+- React Select
+- React Table
+
 ### Table libs
 - TanStackTable, AntDesign table
 
