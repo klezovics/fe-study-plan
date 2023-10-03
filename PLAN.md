@@ -16,6 +16,42 @@ Base = Layouts + Colors + Typography + Spacing
 Advanced = Transitions + Animations
 Design system
 
+## Key concerns
+### Developer experience
+- Which tools to you ? How to use them best ?
+
+### Dependencies
+- Choosing and importing the right dependencies
+- Updating dependencies -> vulnerabilities, bug fixes and improvements
+- Preventing dependency conflicts
+
+### Layouts
+- Getting the layouts right and making them consistent
+- Making the layouts responsive
+
+### Styling
+#### Consistency
+- Across browsers -> normalize.css
+- Colors
+- Typography
+- Layouts and spacing
+
+### Business logic
+- How to structure the code ?
+- What should the folder structure be in the project ?
+
+### API interactions
+- How to keep the code clean
+- How to keep the code performant
+
+### Build and deploy
+- Choosing a rendering strategy: SSG vs SSR vs CSR
+- Creating and deploying a production build
+
+### Etc
+- Storybook -> design system
+- SEO
+
 # Learning Process
 ## Questions
 
