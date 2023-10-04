@@ -131,6 +131,7 @@ Design system
 ## Libs
 - React Query & 1 alternative
 - Client state; Zustand, Redux, Redux toolkit
+- React error boundary
 
 ## Patterns
 - React component patterns
