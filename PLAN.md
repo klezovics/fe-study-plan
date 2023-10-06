@@ -16,6 +16,14 @@ Base = Layouts + Colors + Typography + Spacing
 Advanced = Transitions + Animations
 Design system
 
+## Useful patterns
+- Design system -> consistent(!) colors, typography, sizing & spacing -> theming, faster dev time
+- Layout patterns -> 16 basic layout patterns -> 1 pattern = gotchas + 1+ implementations
+- Image URL enum -> collects all image URLs in one place
+- API root + path enums -> easily change APIs
+- Data access layer -> a special layer which wraps API access
+- Custom hooks -> Implement business layer
+
 ## Key concerns
 ### Developer experience
 - Which tools to you ? How to use them best ?
@@ -249,9 +257,10 @@ These libs only provide hooks and let you style components how you want
 - 1 more libs
 
 ## Testing libs
+- Overview https://youtu.be/bvdHVxqjv80?si=FxTpZI-60I9jgMgS
 - Jest
 - React Testing Library
-- Playwright
+- Cypress
 
 ## Reactive libs
 - RxJS -> NgRx
