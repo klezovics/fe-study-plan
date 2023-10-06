@@ -272,7 +272,7 @@ These libs only provide hooks and let you style components how you want
 # Clen code & clean architecture
 - Clean code React
 - Clean architecture React
-- React patterns
+- React patterns -> https://www.patterns.dev/posts
 - Redux patterns
 
 # SVG
