@@ -56,11 +56,21 @@ Design system
 - Choosing a rendering strategy: SSG vs SSR vs CSR
 - Creating and deploying a production build
 
+### Performance optimization
+- Core web vitals: https://pagespeed.web.dev/
+- Web performance optimization -> lazy loading, code splitting, tree shaking (webpack)
+- Rendering strategies -> client side, SSG, SSR
+
 ### Etc
 - Storybook -> design system
 - SEO
+- Web Accessability
 - Google analytics, etc.
-- Core web vitals: https://pagespeed.web.dev/
+- Debugging
+- Using websockets with the BE basics
+- Using PWA features basics
+- Microfrontends basics
+- GraphQL basics
 
 # Learning Process
 ## Questions
@@ -120,6 +130,8 @@ Design system
 - Package manager -> npm, yarn
 - Linter -> eslint, prettier (Something to create a fixed order of CSS properties?)
 - CLI node utilities -> nvm, npx -> what else ?
+- Husky for precommit hooks
+- Pocketbase -> DB for project
 
 ### Browser dev tools
 - Chrome Dev Tools, Firefox for developers
@@ -175,7 +187,7 @@ Design system
 
 ### Etc
 - Transformations -> translate, rotate, scale
-- Animations -> transition, @keyframes
+- Animations -> transition, @keyframes, will-change property, requestAnimationFrame
 
 - Pseudo elements -> :hover, :active, :focus, :visited, :nth-child, ::before-after
 - Pseudo classes -> :hover, :active, :focus, :visited
@@ -218,6 +230,7 @@ Design system
 - Chakra UI
 - 2 headless UI libs
 - Figure out how to customize lib components
+- Build your own component lib and upload to NPM
 
 ### Headless component libs
 These libs only provide hooks and let you style components how you want
