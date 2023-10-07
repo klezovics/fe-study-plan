@@ -16,6 +16,9 @@ Base = Layouts + Colors + Typography + Spacing
 Advanced = Transitions + Animations
 Design system
 
+## Web design breakdown
+- Design system = Design tokens + Component library + Layout patterns
+
 ## Useful patterns
 - Design system -> consistent(!) colors, typography, sizing & spacing -> theming, faster dev time
 - Layout patterns -> 16 basic layout patterns -> 1 pattern = gotchas + 1+ implementations
