@@ -227,7 +227,7 @@ Design system
 
 ### Other
 - Material UI
-- Chakra UI
+- [Chakra UI](https://egghead.io/courses/build-a-modern-user-interface-with-chakra-ui-fac68106)
 - 2 headless UI libs
 - Figure out how to customize lib components
 - Build your own component lib and upload to NPM
