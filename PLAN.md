@@ -147,6 +147,8 @@ Design system
 - useRef
 - useContext
 - useReducer
+- custom hooks as a way to extract and reuse logic across components
+- chakrai-ui hooks, use-hook package and custom hook libraries
 
 ## Libs
 - React Query & 1 alternative
@@ -258,7 +260,7 @@ These libs only provide hooks and let you style components how you want
 - ChartJS, VictoryChart
 
 ## Component Design System Libs
-- Storybook
+- [Storybook](https://egghead.io/courses/integrate-storybook-in-a-next-js-application-b6dd4df3)
 
 ## Authentication Libs/Providers
 - Firebase auth
