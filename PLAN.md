@@ -298,6 +298,7 @@ These libs only provide hooks and let you style components how you want
 - Firebase -> auth, db, backend as a service
 
 # Web Design
+- UI/UX basics https://www.refactoringui.com/
 - Site navigation
 - Design tokens: colors, typography, spacing
 - Layout
