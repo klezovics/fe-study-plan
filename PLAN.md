@@ -141,12 +141,13 @@ Design system
 - Lib inspector tools -> react, redux, react-query
 
 ### Other
-- Generators -> gradient, shadow, text shadow, animation, transformation
+- [Generators](https://css-generators.com/) -> gradient, shadow, text shadow, animation, transformation
 
 # React
+[Has high quality docs](https://react.dev/learn)
 ## Hooks
 - useState
-- useEffect
+- [useEffect](https://youtu.be/bGzanfKVFeU?si=muTo5Ev4lEx-0S6X)
 - useRef
 - useContext
 - useReducer
