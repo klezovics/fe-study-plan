@@ -219,19 +219,18 @@ Design system
 - E2E Testing: ???
 
 ## Component libs
-### Tailwind
-- m, p, text and breakpoint(responsive!!) classes for consistent sizing
-- flex-row, flex-col
 
-### Bootstrap
-- Bootstrap Grid
-- Bootstrap components
-
-### Other
-- Material UI
+### Chakra UI
 - [Chakra UI](https://egghead.io/courses/build-a-modern-user-interface-with-chakra-ui-fac68106)
-- 2 headless UI libs
-- Figure out how to customize lib components
+- Layout components
+- UI components
+- Theming
+- Overriding styling
+
+### Other UI libs
+- Bootstrap
+- Material UI
+- Tailwind CSS
 - Build your own component lib and upload to NPM
 
 ### Headless component libs
@@ -250,7 +249,7 @@ These libs only provide hooks and let you style components how you want
 - React hook form
 
 ## Validation Libs
-- Yup, Joi
+- Zod, Yup, Joi
 
 ## HTTP Libs
 - React Query, RTK Query
@@ -271,6 +270,9 @@ These libs only provide hooks and let you style components how you want
 - react-i18next
 - 1 more libs
 
+## Typography libs
+- Typographer lib -> add link
+
 ## Testing libs
 - Overview https://youtu.be/bvdHVxqjv80?si=FxTpZI-60I9jgMgS
 - Jest
@@ -280,9 +282,6 @@ These libs only provide hooks and let you style components how you want
 ## Reactive libs
 - RxJS -> NgRx
 - Some 3D libs
-
-## Typography libs
-- Typographer lib -> add link
 
 # Clen code & clean architecture
 - Clean code React
