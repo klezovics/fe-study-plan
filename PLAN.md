@@ -299,7 +299,8 @@ These libs only provide hooks and let you style components how you want
 - Firebase -> auth, db, backend as a service
 
 # Web Design
-- UI/UX basics https://www.refactoringui.com/
+- [UI/UX basics](https://www.refactoringui.com/)
+- [UI element names](https://careerfoundry.com/en/blog/ui-design/ui-element-glossary/)
 - Site navigation
 - Design tokens: colors, typography, spacing
 - Layout
