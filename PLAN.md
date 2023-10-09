@@ -301,6 +301,8 @@ These libs only provide hooks and let you style components how you want
 # Web Design
 - [UI/UX basics](https://www.refactoringui.com/)
 - [UI element names](https://careerfoundry.com/en/blog/ui-design/ui-element-glossary/)
+- [UI glossary](https://www.uxdesigninstitute.com/blog/ui-glossary/)
+- [UX glossary](https://medium.com/@sarah.edwards/ux-glossary-b73e0a2e0a06)
 - Site navigation
 - Design tokens: colors, typography, spacing
 - Layout
