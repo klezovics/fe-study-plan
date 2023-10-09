@@ -179,6 +179,7 @@ Design system
 - Position
 - Flexbox
 - Grid
+- [MDN Guide](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout) -> good theory
 - Responsive design https://courses.kevinpowell.co/conquering-responsive-layouts https://scrimba.com/learn/responsive
 
 ### Layout patterns
