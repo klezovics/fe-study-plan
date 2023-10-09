@@ -1,3 +1,6 @@
+[//]: # (![Alt Text]&#40;assets/images/browser_works.gif&#41;)
+<img src="assets/images/browser_works.gif" height="800px" width=auto>
+
 # Summary
 This is the summary of all key and critical aspects of FE dev
 
