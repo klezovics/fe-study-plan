@@ -118,9 +118,12 @@ Design system
 - Typescript
 
 # Next.js
-- Next auth
-- Next internationalization
-- Next app router
+- Next.js routers & navigation -> pages and app
+- Next.js using Layout component for consistent layouts
+- Next.js auth
+- Next.js internationalization
+- Next.js performance optimization
+- Next.js rendering strategies -> SSG, SSR, CSR
 - Alternative: after.js, refine.js
 
 # Tools 🛠
