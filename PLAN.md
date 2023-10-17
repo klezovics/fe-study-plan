@@ -266,6 +266,7 @@ These libs only provide hooks and let you style components how you want
 - ChartJS, VictoryChart
 
 ## Component Design System Libs
+- [Storybook in 100s](https://youtu.be/gdlTFPebzAU?si=g-MLDHS1cBeF6dfX)
 - [Storybook](https://egghead.io/courses/integrate-storybook-in-a-next-js-application-b6dd4df3)
 
 ## Authentication Libs/Providers
