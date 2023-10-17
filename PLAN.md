@@ -22,6 +22,7 @@ Design system
 ## Web design breakdown
 - Design system = Design tokens + Component library + Layout patterns
 - [Style Dictionary](https://github.com/amzn/style-dictionary)
+- [Material Design Guidelines](https://m2.material.io/design/guidelines-overview)
 
 ## Useful patterns
 - Design system -> consistent(!) colors, typography, sizing & spacing -> theming, faster dev time
