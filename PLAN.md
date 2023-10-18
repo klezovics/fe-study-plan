@@ -297,7 +297,8 @@ These libs only provide hooks and let you style components how you want
 - Clean code React
 - Clean architecture React
 - React patterns -> https://www.patterns.dev/posts
-- Redux patterns
+- [React patterns: component composition](https://youtu.be/vPRdY87_SH0?si=tHC0Lw6NsYhgeTVz)
+- [React architecture & best practices](https://www.youtube.com/live/XNT5BozA9HA?si=umypoRC7UBOEplNI)
 
 # SVG
 - SVG basics
