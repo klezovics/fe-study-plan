@@ -115,6 +115,9 @@ Design system
 - D9 -> Using libraries. Integrate about 20 different libraries and try to use them
 - D10 -> Component communications practice. Prop drilling, context, zustand
 
+# General
+- [FE Iceberg](https://youtu.be/KYDwcUKlxwQ?si=c1fEgtFuKB5XzE59)
+
 # Languages
 - JS
 - Typescript
