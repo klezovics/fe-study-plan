@@ -152,7 +152,9 @@ Design system
 - [Generators](https://css-generators.com/) -> gradient, shadow, text shadow, animation, transformation
 
 # React
-[Has high quality docs](https://react.dev/learn)
+- [Has high quality docs](https://react.dev/learn)
+- [Rendering process](https://youtu.be/i793Qm6kv3U?si=qaGb_ki4xuPtBfC2)
+
 ## Hooks
 - useState
 - [useEffect](https://youtu.be/bGzanfKVFeU?si=muTo5Ev4lEx-0S6X)
