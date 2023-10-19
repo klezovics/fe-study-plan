@@ -136,20 +136,21 @@ Design system
 - How to convert figma to code ?
 - Design token export: https://www.figma.com/community/plugin/888356646278934516/design-tokens
 
-### CLI utils
-- Generator -> superplate, refine
+## CLI utils
+- Project boilerplate generators -> superplate, refine
 - Package manager -> npm, yarn
 - Linter -> eslint, prettier (Something to create a fixed order of CSS properties?)
-- CLI node utilities -> nvm, npx -> what else ?
+- CLI node utilities -> npm, npx, nvm
 - Husky for precommit hooks
 - Pocketbase -> DB for project
 
-### Browser dev tools
+## Browser dev tools
 - Chrome Dev Tools, Firefox for developers
 - Lib inspector tools -> react, redux, react-query
 
-### Other
-- [Generators](https://css-generators.com/) -> gradient, shadow, text shadow, animation, transformation
+## Other
+- [CSS Generators](https://css-generators.com/) -> gradient, shadow, text shadow, animation, transformation
+
 
 # React
 - [Has high quality docs](https://react.dev/learn)
@@ -162,7 +163,8 @@ Design system
 - useContext
 - useReducer
 - custom hooks as a way to extract and reuse logic across components
-- chakrai-ui hooks, use-hook package and custom hook libraries
+- chakrai-ui hooks
+- use-hook library & other hook libraries
 
 ## Libs
 - React Query & 1 alternative
