@@ -135,7 +135,7 @@ Design system
 ## Figma
 - Figma basics
 - How to convert figma to code while preserving spacing
-- Web design basics
+- [Web design basics](https://youtu.be/cKZEgtQUxlU?si=FqL5wcqL_PCeGMuy)
 - How to convert figma to code ?
 - Design token export: https://www.figma.com/community/plugin/888356646278934516/design-tokens
 
