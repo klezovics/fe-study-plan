@@ -122,6 +122,9 @@ Design system
 - JS
 - Typescript
 
+## Async JS
+- [The issue of callback hell](http://callbackhell.com/)
+
 # Next.js
 - Next.js routers & navigation -> pages and app
 - Next.js using Layout component for consistent layouts
