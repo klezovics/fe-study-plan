@@ -160,6 +160,8 @@ Design system
 
 # React
 - [Has high quality docs](https://react.dev/learn)
+- [Introduction to react(rus)](https://www.youtube.com/live/bnzcSC8AmHY?si=qv93OnB0lxIdXIjt)
+- [Advanced React](https://www.youtube.com/live/HDajDASxn-w?si=SXyMq5_3UO5WxHbo)
 - [Rendering process](https://youtu.be/i793Qm6kv3U?si=qaGb_ki4xuPtBfC2)
 
 ## Hooks
@@ -189,6 +191,7 @@ Design system
 - Reset -> box-sizing: border-box, normalize.css, 10px per rem
 
 ### Layouts
+- [Layouts intro](https://youtube.com/shorts/ZOOYkJw6TZc?si=5qUMxBWXnnmp0Co0)
 - Normal flow
 - Display
 - Position
