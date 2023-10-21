@@ -165,6 +165,7 @@ Design system
 - [Rendering process](https://youtu.be/i793Qm6kv3U?si=qaGb_ki4xuPtBfC2)
 
 ## Hooks
+- [React hook rules](https://legacy.reactjs.org/docs/hooks-rules.html)
 - useState
 - [useEffect](https://youtu.be/bGzanfKVFeU?si=muTo5Ev4lEx-0S6X)
 - useRef
