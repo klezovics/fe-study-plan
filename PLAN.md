@@ -163,6 +163,7 @@ Design system
 - [Introduction to react(rus)](https://www.youtube.com/live/bnzcSC8AmHY?si=qv93OnB0lxIdXIjt)
 - [Advanced React](https://www.youtube.com/live/HDajDASxn-w?si=SXyMq5_3UO5WxHbo)
 - [Rendering process](https://youtu.be/i793Qm6kv3U?si=qaGb_ki4xuPtBfC2)
+- [React lib ecosystem](https://www.youtube.com/live/vfoLoTGa6Sw?si=uJo0AbEWVeN_-s9W)
 
 ## Hooks
 - [React hook rules](https://legacy.reactjs.org/docs/hooks-rules.html)
@@ -178,6 +179,7 @@ Design system
 ## Libs
 - React Query & 1 alternative
 - Client state; Zustand, Redux, Redux toolkit
+- [State machine implementation lib](https://stately.ai/docs/xstate-react/)
 - React error boundary
 
 ## Patterns
