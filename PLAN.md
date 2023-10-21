@@ -162,6 +162,7 @@ Design system
 # React
 - [Has high quality docs](https://react.dev/learn)
 - [Introduction to react(rus)](https://www.youtube.com/live/bnzcSC8AmHY?si=qv93OnB0lxIdXIjt)
+- [React key feature overview](https://youtu.be/0UbkJ6Izue8?si=52raSfE1BFvBmhYg)
 - [Advanced React](https://www.youtube.com/live/HDajDASxn-w?si=SXyMq5_3UO5WxHbo)
 - [Rendering process](https://youtu.be/i793Qm6kv3U?si=qaGb_ki4xuPtBfC2)
 - [React app architecture](https://youtu.be/Zy-Oj6qs8vo?si=vvyafZWgrCoO0-NK)
