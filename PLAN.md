@@ -156,6 +156,7 @@ Design system
 
 ## Other
 - [CSS Generators](https://css-generators.com/) -> gradient, shadow, text shadow, animation, transformation
+- [Security basics](https://youtu.be/QqXEUVOA9Fo?si=ppBMIjdg4uvtKWGz)
 
 
 # React
