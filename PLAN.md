@@ -173,6 +173,7 @@ Design system
 - [React hook rules](https://legacy.reactjs.org/docs/hooks-rules.html)
 - useState
 - [useEffect](https://youtu.be/bGzanfKVFeU?si=muTo5Ev4lEx-0S6X)
+- [useEffect use cases](https://dev.to/colocodes/6-use-cases-of-the-useeffect-reactjs-hook-282o)
 - useRef
 - useContext
 - useReducer
@@ -284,6 +285,12 @@ These libs only provide hooks and let you style components how you want
 ## HTTP Libs
 - React Query, RTK Query
 - fetch API, axios
+
+### React query
+- How to configure automated refetching ?
+- How to configure cache invalidation ?
+- How to use mutations ?
+- How to use results of one request to send further requests ? Best way to implement this ?
 
 ## Data visualisation Libs  
 - ChartJS, VictoryChart
