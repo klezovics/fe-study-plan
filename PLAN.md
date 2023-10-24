@@ -287,6 +287,7 @@ These libs only provide hooks and let you style components how you want
 - fetch API, axios
 
 ### React query
+- [React Query Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjTELCrPrcZlo6blLBUspd2)
 - How to configure automated refetching ?
 - How to configure cache invalidation ?
 - How to use mutations ?
