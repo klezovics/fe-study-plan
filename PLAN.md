@@ -119,7 +119,7 @@ Design system
 - [FE Iceberg](https://youtu.be/KYDwcUKlxwQ?si=c1fEgtFuKB5XzE59)
 
 # Languages
-- JS
+- JS [Simple JS exercises](https://www.w3resource.com/javascript-exercises/)
 - Typescript
 
 ## Async JS
