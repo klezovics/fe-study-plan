@@ -167,6 +167,7 @@ Design system
 - [Rendering process](https://youtu.be/i793Qm6kv3U?si=qaGb_ki4xuPtBfC2)
 - [React app architecture](https://youtu.be/Zy-Oj6qs8vo?si=vvyafZWgrCoO0-NK)
 - [React lib ecosystem](https://www.youtube.com/live/vfoLoTGa6Sw?si=uJo0AbEWVeN_-s9W)
+- [React patterns](https://youtu.be/OijyFbI2CM8?si=Mt9WFWtnxZScLm06)
 - [Building a complex component](https://youtu.be/w0Kvt65Z2Uk?si=kh2RNJTygTauM0Ll)
 
 ## Hooks
