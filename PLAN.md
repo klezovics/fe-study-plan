@@ -347,5 +347,12 @@ These libs only provide hooks and let you style components how you want
 - Design tokens: colors, typography, spacing
 - Layout
 
+# Security
+- XSS
+- CSRF
+- CORS
+- SCP Headers
+- SQL Injection
+
 # Projects
 - Do 5 projects based on Youtube tutorials based on react/next.js
