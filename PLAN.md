@@ -283,15 +283,16 @@ These libs only provide hooks and let you style components how you want
 - Zod, Yup, Joi
 
 ## HTTP Libs
-- React Query, RTK Query
 - fetch API, axios
 
 ### React query
 - [React Query Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjTELCrPrcZlo6blLBUspd2)
+- [Cache time vs Stale Time](https://medium.com/doctolib/react-query-cachetime-vs-staletime-ec74defc483e)
 - How to configure automated refetching ?
 - How to configure cache invalidation ?
 - How to use mutations ?
 - How to use results of one request to send further requests ? Best way to implement this ?
+- RTK Query & SWR
 
 ## Data visualisation Libs  
 - ChartJS, VictoryChart
