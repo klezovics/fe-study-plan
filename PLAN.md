@@ -290,6 +290,7 @@ These libs only provide hooks and let you style components how you want
 - [React Query Tutorial](https://www.youtube.com/playlist?list=PLC3y8-rFHvwjTELCrPrcZlo6blLBUspd2)
 - [React Query overview from creator](https://youtu.be/DocXo3gqGdI?si=m1EwzEYrZieYhrKA)
 - [Cache time vs Stale Time](https://medium.com/doctolib/react-query-cachetime-vs-staletime-ec74defc483e)
+- [React Query Cheet Sheet](https://dev.to/sahilverma_dev/react-query-cheat-sheet-58l3)
 - How to configure automated refetching ?
 - How to configure cache invalidation ?
 - How to use mutations ?
