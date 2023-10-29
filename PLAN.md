@@ -352,6 +352,7 @@ These libs only provide hooks and let you style components how you want
 - Layout
 
 # Security
+- [React security crash-course](https://youtu.be/ibKXoU1I3cE?si=2mQa1jlQnjDzHcGI)
 - XSS
 - CSRF
 - CORS
