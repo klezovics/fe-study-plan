@@ -172,15 +172,15 @@ Design system
 
 ## Hooks
 - [React hook rules](https://legacy.reactjs.org/docs/hooks-rules.html)
+- [All hooks in one video](https://youtu.be/HnXPKtro4SM?si=gAcPpyrpD3ZRl6ar)
 - useState
 - [useEffect](https://youtu.be/bGzanfKVFeU?si=muTo5Ev4lEx-0S6X)
 - [useEffect use cases](https://dev.to/colocodes/6-use-cases-of-the-useeffect-reactjs-hook-282o)
 - useRef
 - useContext
 - useReducer
-- custom hooks as a way to extract and reuse logic across components
-- chakrai-ui hooks
-- use-hook library & other hook libraries
+- [use-hook library](https://usehooks.com/) & other hook libraries
+- [write your own custom hooks](https://legacy.reactjs.org/docs/hooks-custom.html)
 
 ## Libs
 - React Query & 1 alternative
